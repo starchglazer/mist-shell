@@ -2,6 +2,9 @@
 
 import Quickshell
 
-ShellRoot {
+import "./src"
 
+ShellRoot {
+  Actions {}
+  Layers {}
 }
