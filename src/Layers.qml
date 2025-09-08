@@ -1,5 +1,10 @@
 import Quickshell
 
-Scope {
+import "./layers"
 
+Scope {
+  Background {}
+  Bottom {}
+  Overlay {}
+  Top {}
 }
